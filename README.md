@@ -1,3 +1,2 @@
 # Strapi application
-
-A quick description of your strapi application
+Serverless strapi backend with AWS lambda
